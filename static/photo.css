@@ -1,0 +1,44 @@
+.box2-2 {
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.photo-container{
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.photo-items1 {
+  flex : 0.4;
+  background-color:#e9e9e9;
+  margin : 0px 10px 2px 10px;
+  font-size: 15px;
+  text-align: center;
+  border-top: 1px solid #d3d3de;
+  padding: 3px 0px 3px 0px;
+}
+
+.photo-items2 {
+  flex : 0.2;
+  font-size: 13px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.photo-items3 {
+  flex : 1;
+  margin : 2px 10px 15px 10px;
+}
+
+.photo-items4 {
+  flex : 0.4;
+  margin : 0px 10px 25px 10px;
+}
+
+.dropdown-btn{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

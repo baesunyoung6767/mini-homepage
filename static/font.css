@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Wemakeprice-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Wemakeprice-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SLEIGothicTTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SLEIGothicTTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cafe24Syongsyong';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Syongsyong.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Dongle-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108_2@1.0/Dongle-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.box1-1-content {
+  font-size: 13px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.items1{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.items2 {
+  font-size: 13px;
+}
+
+.items3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.box2-1-content1 {
+  font-family: 'Single Day', cursive;
+  color: #27279f;
+  font-size: 25px;
+}
+
+.box2-1-content2 {
+  font-size: 13px;
+}
+
+.items4-1 {
+  font-size: 18px;
+  color : #62b8d6
+}
+
+.items4-2{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.items6 {
+  font-size: 18px;
+  color : #62b8d6
+}
+
+.number{
+  font-size: 14px;
+  color: #003458
+}
+
+.menu-style{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.menu-change{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.photo-items1 {
+  font-family: 'NEXON Lv1 Gothic OTF';
+}
+
+.photo-items4{
+  font-family: 'NEXON Lv1 Gothic OTF';
+}
+
+.box2-2-items1 {
+  font-family: 'Wemakeprice-Bold';
+}
+
+.diary-date{
+  font-family: 'SLEIGothicTTF';
+}
+
+.diary-content{
+  font-family: 'NEXON Lv1 Gothic OTF';
+}
+
+.diary-button{
+  font-family: 'SLEIGothicTTF';
+}
+
+.visitors-name {
+ font-family: 'NEXON Lv1 Gothic OTF';
+}

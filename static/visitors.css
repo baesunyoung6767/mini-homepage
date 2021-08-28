@@ -1,0 +1,96 @@
+.box2-2 {
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.visitors{
+  margin: 15px 20px 30px 20px;
+  flex : 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.visitors-name{
+  flex : 0.35;
+  display: flex;
+  flex-direction: row;
+
+  background-color: #e2e2e2;
+
+  line-height: 39px;
+  text-align: left;
+}
+
+.visitors-name-items1 {
+  flex : 0.9;
+  margin-left: 6px;
+}
+
+.visitors-name-items2 {
+  flex : 0.2;
+}
+
+.visitors-item{
+  flex : 1.5;
+
+  display: flex;
+  flex-direction: row;
+
+  margin : 10px 0px;
+}
+
+.visitors-profile{
+  flex : 0.3;
+  margin-right: 10px;
+  text-align: center;
+
+  background-size: cover;
+}
+
+.visitors-content{
+  margin-left: 10px;
+  flex : 0.7;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.visitors-reply {
+  flex : 0.4;
+
+  display: flex;
+  flex-direction: row;
+
+  background-color: #e2e2e2;
+}
+
+.visitors-reply-items1{
+  margin: 6px 5px 6px 8px;
+  flex: 2;
+  border: 1px solid gray;
+  background-color: white;
+}
+
+.visitors-reply-items2{
+  margin: 6px 8px 6px 5px;
+  flex : 0.2;
+
+  border: 1px solid gray;
+  border-radius: 5px;
+  background-color: white;
+
+  line-height: 39px;
+  text-align: center;
+}
+
+.background1{
+  background-image: url("./images/background2.PNG");
+}
+
+.background2{
+  background-image: url("./images/background1.PNG");
+}
+
+.background3{
+  background-image: url("./images/background3.PNG");
+}
